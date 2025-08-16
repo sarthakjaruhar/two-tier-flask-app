@@ -14,7 +14,7 @@ This project aims to deploy a scalable two-tier application running on Flask and
 
 - **Improved Downtime**: Reduced downtime by 60% with AWS Managed EKS.
 
-  https://github.com/user-attachments/assets/4be1a411-9a9a-4718-bc47-fc1d5fe69082
+ https://github.com/user-attachments/assets/4be1a411-9a9a-4718-bc47-fc1d5fe69082
 
 
 
