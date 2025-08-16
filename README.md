@@ -1,5 +1,6 @@
 # Two Tier Flask App
 
+https://github.com/user-attachments/assets/4be1a411-9a9a-4718-bc47-fc1d5fe69082
 
 ## Overview- 
 This project aims to deploy a scalable two-tier application running on Flask and MySQL, designed to handle 10,000 concurrent users while adhering to best DevOps practices. By leveraging Docker, Kubernetes, and AWS services, we ensure fault tolerance, scalability, and efficient deployment.
