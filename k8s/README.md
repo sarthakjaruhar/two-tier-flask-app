@@ -86,9 +86,10 @@ sudo apt install -y kubeadm=1.28.1-1.1 kubelet=1.28.1-1.1 kubectl=1.28.1-1.1 -y
   ```
 
   ```sql
-  CREATE TABLE messages (
+     CREATE TABLE messages (
          id INT AUTO_INCREMENT PRIMARY KEY,
          message TEXT
+     );
   ```
 
 4. **Show your messages in you MYSQL Database**
